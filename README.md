@@ -69,7 +69,7 @@
   </pre>
 
   <h2>💻 Live Demo</h2>
-  <p>You can view the live demo of the clone <a href="https://aviralpratap21.github.io/Brainwave_Matrix_Intern_task01/" target="_blank">here</a>.</p>
+  <p>You can view the live demo of the clone <a href="https://aviralpratap21.github.io/brainwave_clone/" target="_blank">here</a>.</p>
 
   <h2>📞 Contact</h2>
   <p>For queries or suggestions, feel free to reach out:</p>

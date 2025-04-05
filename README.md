@@ -4,34 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brainwave Matrix Solution - Clone README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      background-color: #f4f4f4;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    pre {
-      background-color: #eaeaea;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  </style>
+
 </head>
 <body>
   <h1 align="center">🧠 Brainwave Matrix Solution - Clone</h1>
